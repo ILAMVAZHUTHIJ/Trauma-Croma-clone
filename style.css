@@ -1,0 +1,30 @@
+* {
+    background: black;
+    color: white;
+}
+
+.carousel .carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel .carousel-indicators{
+    bottom: -2%;
+}
+
+
+.row,h5,h2 {
+    padding-top: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.row #row1{
+padding-left: 8px;
+padding-right: 8px;
+}
+
+.row .card-img-top{
+    border-radius: 2%;
+}
